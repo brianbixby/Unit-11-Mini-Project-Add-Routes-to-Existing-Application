@@ -1,0 +1,24 @@
+{
+  "name": "unit-11-mini-project-add-routes-to-existing-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianbixby/Unit-11-Mini-Project-Add-Routes-to-Existing-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianbixby/Unit-11-Mini-Project-Add-Routes-to-Existing-Application/issues"
+  },
+  "homepage": "https://github.com/brianbixby/Unit-11-Mini-Project-Add-Routes-to-Existing-Application#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "uuid": "^8.3.2"
+  }
+}

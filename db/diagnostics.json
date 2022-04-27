@@ -1,0 +1,11 @@
+[
+    {
+        "time": 1651084796776,
+        "error_id": "8705394a-270c-40f8-8568-142f7adf6890",
+        "errors": {
+            "username": "Invalid username!",
+            "tip": "Tip must be at least 15 characters",
+            "topic": ""
+        }
+    }
+]
